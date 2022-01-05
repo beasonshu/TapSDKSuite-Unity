@@ -1,0 +1,6 @@
+framework module TapSDKSuiteKit {
+  umbrella header "TapSDKSuiteKit.h"
+
+  export *
+  module * { export * }
+}
