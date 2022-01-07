@@ -1,6 +1,9 @@
 # TapSDKSuite-Unity
+TapSDKSuite 提供了一个可以快速展示TapSDK功能的悬浮窗口。
+## 效果展示
+<img src=./art/example.gif width=222 height=480 />
 
-# 说明
+## 说明
 Unity 模块是通过引入 iOS 和 Android 模块后增加桥接文件打包出的 `.unitypackage`，方便以 Unity 开发的游戏直接引入。其他引擎/平台的游戏可以通过 iOS/Android 原生的方式接入，详见 iOS/Android 各模块接入文档。
 
 ## 1.接入SDK
